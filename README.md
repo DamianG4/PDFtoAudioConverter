@@ -2,9 +2,6 @@
 
 Skrypt w języku Python wykorzystujący sztuczną inteligencję do zamiany dokumentów PDF na audiobooki w formacie MP3 przy użyciu Google Cloud Text-to-Speech API.
 
-## Aplikacja online
-Wersja live: [LINK](https://react-weather-app-kappa-navy.vercel.app)
-
 ## Funkcje
 - **Ekstrakcja tekstu:** automatyczne odczytywanie treści z wielostronicowych plików PDF za pomocą biblioteki `pypdf`.
 - **Konwersja mowy (TTS):** integracja z zaawansowanymi modelami Google dla uzyskania naturalnego brzmienia.
